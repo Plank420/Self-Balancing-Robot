@@ -8,12 +8,20 @@ Requirements
 To build and run the code, you'll need the following components:
 
 Arduino UNO R3 or compatible board
+
 MPU6050 6-axis gyroscope and accelerometer module
+
 L293D motor driver IC
+
 Two DC motors with wheels
+
 9V battery or power supply
+
 Jumper wires and breadboard
+
 Installation
+
+
 To install the code, follow these steps:
 
 Clone the repository or download the ZIP file and extract it to a folder.
